@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saas.noahstjohn.com/sitemap-index.xml
